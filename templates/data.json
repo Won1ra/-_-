@@ -413,6 +413,13 @@
     "width": 68,
     "height": 102
  },
+"pat": {
+    "name": "pat.png",
+    "x": 3843,
+    "y": 2694,
+    "width": 70,
+    "height": 103
+ },
   "gz": {
     "name": "gz.png",
     "x": -3185,
