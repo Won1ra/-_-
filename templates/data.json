@@ -28,8 +28,8 @@
     "height": 38 
     
 },
-  "GREB": {
-    "name": "GREB.png",
+  "grebbase": {
+    "name": "grebbase.png",
     "x": 3083,
     "y": 2636,
     "width": 197,
