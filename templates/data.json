@@ -420,6 +420,13 @@
     "width": 70,
     "height": 103
  },
+  "wvcirculo": {
+    "name": "wvcirculo.png",
+    "x": 1329,
+    "y": 3791,
+    "width": 98,
+    "height": 140
+ },
   "gz": {
     "name": "gz.png",
     "x": -3185,
