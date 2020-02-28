@@ -1,16 +1,17 @@
 {
+  
   "derpa-obrezanaja.png": {
-  "name": "derpa-obrezanaja.png",
-  "x": 3480,
-  "y": -792,
-  "width": 400,
-  "height": 410
+    "name": "derpa-obrezanaja.png",
+    "x": 3480,
+    "y": -792,
+    "width": 400,
+    "height": 410
 },
   "обьект визуальных наслаждений в_финал.png": {
-  "name": "обьект визуальных наслаждений в_финал.png",
-  "x": 2739,
-  "y": 500,
-  "width": 77,
-  "height": 110
+    "name": "обьект визуальных наслаждений в_финал.png",
+    "x": 2739,
+    "y": 500,
+    "width": 77,
+    "height": 110
   }
 }
